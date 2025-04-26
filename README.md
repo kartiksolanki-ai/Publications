@@ -43,3 +43,5 @@ scrutinize the trajectories of detected pedestrians, we develop a
 prognosticative model to foretaste their future movements,
 thereby enabling self-driving cars to proactively adjust their
 etiquette to accustom pedestrian actions. 
+
+IEEE Explore link: https://ieeexplore.ieee.org/document/10489578
