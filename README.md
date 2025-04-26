@@ -4,6 +4,7 @@ This repository contains research papers and supporting materials from my recent
 Each publication includes a brief overview, abstract, and access to relevant code.
 
 📝 Publications
+
 Enhancing Ophthalmic Diagnostics: CNNs in Cataract Detection
 Published in IEEE, 2024
 Cataracts have been one of the most prevalent eye 
