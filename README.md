@@ -9,7 +9,7 @@ Each publication includes a brief overview, abstract, and access to relevant cod
 
 Published in IEEE, 2024
 
-<img src="Paper2-1.png" alt="Eye-Cataract Demo" width="500">
+<img src="Paper2-2.png" alt="Eye-Cataract Demo" width="500">
 
 Cataracts have been one of the most prevalent eye 
 disorders, which often can cause significant visual impairment 
@@ -30,7 +30,7 @@ IEEE Explore link: https://ieeexplore.ieee.org/document/10489576
 
 Published in IEEE, 2025
 
-<img src="Paper2-2.png" alt="Eye-Cataract Demo" width="500">
+<img src="Paper2-1.png" alt="Eye-Cataract Demo" width="500">
 
 With the advancement of autonomous vehicle
 innovation, precise pedestrian movement prediction has become
