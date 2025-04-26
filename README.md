@@ -22,6 +22,20 @@ cataract detection. Convolutional Neural Networks (CNNs)
 have made an appearance as a commanding implement for 
 computerized the systematization of eye images.
 
-[Title of Second Publication]
-Published in [Journal/Conference Name], [Year]
-A brief description of the paper (2–3 lines summarizing the topic, method, and significance).
+2.ADAS-PeVision: Advanced Driver Assistance System for Pedestrian Movement Prediction
+
+Published in IEEE, 2025
+
+With the advancement of autonomous vehicle
+innovation, precise pedestrian movement prediction has become
+indispensable for ensuring safe interactions between pedestrians
+and self-driving cars. In this research work, we propose a
+pedestrian tracking and prophesy framework intent at inflate
+pedestrian safety in densely populated environment. Our
+framework leverages state-of-the-art deep learning
+methodology, notably YOLO (You Only Look Once), for
+contemporaneous pedestrian detection and pursuit. By
+scrutinize the trajectories of detected pedestrians, we develop a
+prognosticative model to foretaste their future movements,
+thereby enabling self-driving cars to proactively adjust their
+etiquette to accustom pedestrian actions. 
