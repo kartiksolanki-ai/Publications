@@ -24,6 +24,8 @@ cataract detection. Convolutional Neural Networks (CNNs)
 have made an appearance as a commanding implement for 
 computerized the systematization of eye images.
 
+IEEE Explore link: https://ieeexplore.ieee.org/document/10489576
+
 2.ADAS-PeVision: Advanced Driver Assistance System for Pedestrian Movement Prediction
 
 Published in IEEE, 2025
