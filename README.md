@@ -6,7 +6,9 @@ Each publication includes a brief overview, abstract, and access to relevant cod
 📝 Publications
 
 Enhancing Ophthalmic Diagnostics: CNNs in Cataract Detection
+
 Published in IEEE, 2024
+
 Cataracts have been one of the most prevalent eye 
 disorders, which often can cause significant visual impairment 
 due to the clouding of the eye’s lens. This condition can worsen 
