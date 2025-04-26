@@ -9,6 +9,8 @@ Each publication includes a brief overview, abstract, and access to relevant cod
 
 Published in IEEE, 2024
 
+<img src="Paper2-1.png" alt="Eye-Cataract Demo" width="500">
+
 Cataracts have been one of the most prevalent eye 
 disorders, which often can cause significant visual impairment 
 due to the clouding of the eye’s lens. This condition can worsen 
