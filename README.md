@@ -5,7 +5,7 @@ Each publication includes a brief overview, abstract, and access to relevant cod
 
 📝 Publications
 
-1. Enhancing Ophthalmic Diagnostics: CNNs in Cataract Detection
+1.Enhancing Ophthalmic Diagnostics: CNNs in Cataract Detection
 
 Published in IEEE, 2024
 
