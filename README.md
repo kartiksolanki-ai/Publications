@@ -46,4 +46,4 @@ prognosticative model to foretaste their future movements,
 thereby enabling self-driving cars to proactively adjust their
 etiquette to accustom pedestrian actions. 
 
-IEEE Explore link: https://ieeexplore.ieee.org/document/1045432
+IEEE Explore link: https://ieeexplore.ieee.org/document/19873422
