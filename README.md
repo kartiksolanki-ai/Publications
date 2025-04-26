@@ -30,6 +30,8 @@ IEEE Explore link: https://ieeexplore.ieee.org/document/10489576
 
 Published in IEEE, 2025
 
+<img src="Paper2-2.png" alt="Eye-Cataract Demo" width="500">
+
 With the advancement of autonomous vehicle
 innovation, precise pedestrian movement prediction has become
 indispensable for ensuring safe interactions between pedestrians
